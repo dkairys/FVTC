@@ -1,0 +1,8 @@
+Welcome to the Math Quiz!
+
+3.  4 / 2 = 2
+3.  4 / 2 = 2
+4.  5 - 3 = 2
+
+
+Results saved to: C:\Users\21156091\Desktop\FVTC - C++\DLKAssignment5_MathQuiz\Files\Answers\QuizResults.txt
